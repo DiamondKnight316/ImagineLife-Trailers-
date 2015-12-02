@@ -1,2 +1,2 @@
-# ImagineLife-Trailers-
-The trailers of ImagineLife batch file game.
+# ImagineLife
+These are the trailers of ImagineLife batch file game.
